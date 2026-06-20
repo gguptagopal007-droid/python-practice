@@ -1,48 +1,76 @@
-# Python Practice
+# Python Practice Repository
 
-Welcome to my Python learning repository.
+This repository contains my Python learning journey from beginner to advanced level.
 
 ## Author
 
 Gopal Gupta
 
-Computer Teacher | Learning Python, GitHub and AI
+Computer Teacher | MCA Aspirant | Python Learner
 
-## Programs
+---
 
-### hello.py
+# Completed Programs
 
+## Beginner Programs
+
+### 1. hello.py
 Prints a simple "Hello World" message.
 
-### welcome.py
+### 2. welcome.py
+Takes user input and displays a welcome message.
 
-Takes the user's name as input and displays a welcome message.
+### 3. calculator.py
+Performs basic arithmetic calculations.
 
-### calculator.py
+### 4. odd_even.py
+Checks whether a number is odd or even.
 
-Calculates the sum of two numbers entered by the user.
+### 5. prime number.py
+Checks whether a number is prime or not.
 
-### even_odd.py
+### 6. table.py
+Displays multiplication table of a given number.
 
-Checks whether a given number is even or odd.
+---
 
-### table.py
+# Python Basics
 
-Displays the multiplication table of a given number.
+### 7. variables.py
+Demonstrates the use of variables in Python.
 
-###prime number.py
+### 8. data_types.py
+Shows different Python data types.
 
-Added prime number checker program
+### 9. input_output.py
+Demonstrates user input and output operations.
 
-## Skills Learned
+### 10. operators.py
+Shows arithmetic and comparison operators.
 
-* Variables
-* Input and Output
-* Arithmetic Operations
-* Conditional Statements (if-else)
-* Loops
-* User Interaction
+### 11. comments.py
+Demonstrates single-line and multi-line comments.
 
-## Goal
+### 12. type_casting.py
+Shows conversion between different data types.
 
-To learn Python programming, build real-world projects, and create a professional GitHub portfolio.
+---
+
+# Upcoming Programs
+
+- list_example.py
+- tuple_example.py
+- set_example.py
+- dictionary_example.py
+- string_example.py
+- palindrome_checker.py
+- vowel_counter.py
+- for_loop.py
+- while_loop.py
+- functions.py
+
+---
+
+# Goal
+
+Build 100+ Python programs from beginner to advanced level and create a strong GitHub portfolio for internships, MCA studies, and software development careers.
